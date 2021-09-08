@@ -19,3 +19,12 @@ $ pip install -U pip
 $ pip install pip-tools
 ```
 
+### Install dependencies
+```sh
+$ make pip_sync
+```
+
+### Run the service
+```sh
+$ make run
+```
